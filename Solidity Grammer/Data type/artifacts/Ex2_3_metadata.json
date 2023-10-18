@@ -1,0 +1,84 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "assignment",
+				"outputs": [
+					{
+						"internalType": "int256",
+						"name": "",
+						"type": "int256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					},
+					{
+						"internalType": "bytes",
+						"name": "",
+						"type": "bytes"
+					},
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					},
+					{
+						"internalType": "address",
+						"name": "",
+						"type": "address"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Data type/datatype.sol": "Ex2_3"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Data type/datatype.sol": {
+			"keccak256": "0x0be0bc90723b463319e1e5688195203b1b621a5cf80864c3223c996a49b65c4b",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://c33d6a49c0957571a6b5e2fa23a4f83d29dd3b398fb9fa14fa42b8f221afbd16",
+				"dweb:/ipfs/QmYojtjhjkyLBkzmf3FjeBa8BRi1P92dwBkqkUwk6X2PpR"
+			]
+		}
+	},
+	"version": 1
+}

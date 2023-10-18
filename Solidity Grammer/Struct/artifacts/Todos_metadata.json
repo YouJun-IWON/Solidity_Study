@@ -1,0 +1,146 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_text",
+						"type": "string"
+					}
+				],
+				"name": "create",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					}
+				],
+				"name": "get",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "text",
+						"type": "string"
+					},
+					{
+						"internalType": "bool",
+						"name": "completed",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "todos",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "text",
+						"type": "string"
+					},
+					{
+						"internalType": "bool",
+						"name": "completed",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					}
+				],
+				"name": "toggleCompleted",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "_text",
+						"type": "string"
+					}
+				],
+				"name": "updateText",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Struct/2.sol": "Todos"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Struct/1.sol": {
+			"keccak256": "0xdfe17ccc0569867b0af641bff2a0ebccd0c4575ff4453799816abe81f53d5043",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2cf5a3c89783e2108bb7d8201c1d1f87ccc533af0e325e7d77cf4e2d6107cfbf",
+				"dweb:/ipfs/Qmb2QgEyzNdMCf7Q93R5F5VimprAwgakiWSsR5PgykDub8"
+			]
+		},
+		"Solidity Grammer/Struct/2.sol": {
+			"keccak256": "0x0efa25fc2b4748390e22e75410cad0a6fcf83dbb8a72d614355a201bc233be5a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1cbfa02f9dc3f487379af07d0ef8a4961f948b470f8b084b69d2c7916afc3f74",
+				"dweb:/ipfs/QmVsSG21WtpoSKKEiC9j58Und5sgatDNmhuZyr372MEQQa"
+			]
+		}
+	},
+	"version": 1
+}

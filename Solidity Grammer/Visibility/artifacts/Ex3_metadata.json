@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "funExt",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "outPutExt",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Visibility/3.sol": "Ex3"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Visibility/3.sol": {
+			"keccak256": "0x10c0d08a0732539a0c68a149a79fc2d58f0cec349d35933c3e36267e7830dc20",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ca51d15a7811cc7121fb5169c23107ad1eed41ac61d153678a9cfea5145eb0f0",
+				"dweb:/ipfs/QmcKmYVyvim79FsQgNjNtu4TVKfWHusjWKndXEdda2TaWT"
+			]
+		}
+	},
+	"version": 1
+}

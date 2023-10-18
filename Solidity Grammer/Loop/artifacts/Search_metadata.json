@@ -1,0 +1,89 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					}
+				],
+				"name": "CountryIndexName",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "string",
+						"name": "_search",
+						"type": "string"
+					}
+				],
+				"name": "linearSearch",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Loop/linear search.sol": "Search"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Loop/linear search.sol": {
+			"keccak256": "0x4c71b1144ceaa826a60b3232c5fe4abcbb49bb0532db1276ffad659a9bf4fd85",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e450f003ad379660156aba80be3861becfa1086b5440a2c6ebee22153bdb7064",
+				"dweb:/ipfs/QmSzyibpftRz8r178NLsDZA58amAx1Yq8Dqe2oMZ7yJ8DB"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,98 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": true,
+						"internalType": "uint256",
+						"name": "_index",
+						"type": "uint256"
+					},
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "_name",
+						"type": "string"
+					}
+				],
+				"name": "CountryIndexName",
+				"type": "event"
+			},
+			{
+				"inputs": [],
+				"name": "doWhileLoop",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "forLoopEvents",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"name": "num",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Loop/doWhile.sol": "Loop"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Loop/doWhile.sol": {
+			"keccak256": "0xa9fb513350bab4f28da9388e1b6c2850705d1828b6ddb5d006ee1bc3e05a86a0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://e4a4668a8328cc5dff62cd53218ab9c762b276094826e7acb1606ae85bd7b465",
+				"dweb:/ipfs/Qmf8AMb4i78HP1QzkXWChmHKS6Rxe45vqYZbxXX5zMzGKN"
+			]
+		}
+	},
+	"version": 1
+}

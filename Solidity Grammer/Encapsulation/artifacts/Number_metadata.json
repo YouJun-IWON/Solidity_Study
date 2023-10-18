@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "changeNum",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getNum",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Encapsulation/capsul.sol": "Number"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Encapsulation/capsul.sol": {
+			"keccak256": "0xce90d37a5a496433de92efe2c543b01e19cf4264b54ac5a692c5bc739a2080ef",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://41f9c7bc41635cbf47ff1f18b11ce21d9326f55ea98db9a99ec7eb1c1ae5e6b7",
+				"dweb:/ipfs/QmTfo34iiCWhYoSjroFBCzmeP4oLpN9GSeXkrGJdwJ3yfz"
+			]
+		}
+	},
+	"version": 1
+}

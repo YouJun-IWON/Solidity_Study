@@ -1,0 +1,51 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/DataType/state.sol": "SolidityTest"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/DataType/state.sol": {
+			"keccak256": "0x29ce11e47a0866441e88a47d418a3ff29ad274c1aa603ce92f635ad160302629",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://8f0fddfda023a965884c9283ae5c5e7c97914a389a3ea2c48eecd7fc932cfd13",
+				"dweb:/ipfs/QmRKYZ3jxVX3JEWKbUaSu3hpH37SWBr9cb62P4LLRAiNsi"
+			]
+		}
+	},
+	"version": 1
+}

@@ -1,0 +1,79 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "changeSchoolName",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getSchoolName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "schoolName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Inheritance/inh.sol": "UniStudent"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Inheritance/inh.sol": {
+			"keccak256": "0x98f5eda64d9c1a823e9b47cbba1ff0acb04c3ef14da296bdb04528aa11362a33",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0cfd66d585c3b3c2ebf0f50f11f265fab2f2d9af5ece6c991e8fb3390c821b55",
+				"dweb:/ipfs/QmfPFE95Tc35r1tcjqgxftCqRyXzrN9XuYehqVsxY4ccYY"
+			]
+		}
+	},
+	"version": 1
+}

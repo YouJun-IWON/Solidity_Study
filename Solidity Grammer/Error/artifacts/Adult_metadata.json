@@ -1,0 +1,70 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_age",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "age",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Error/3.sol": "Adult"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Error/3.sol": {
+			"keccak256": "0x56b96bf52c36c2cd1c34c0ce553a3714c71961edfbe9da5ccc7a458f8ef7562e",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://2a09037ec2ce253ce33e10d4d507745c028dc6ca63e301dbfec46655a4a211f9",
+				"dweb:/ipfs/QmSadDsiJU3wbUsSTnyewF3eP8AdwzN7PjpSKSBSYo88e5"
+			]
+		}
+	},
+	"version": 1
+}

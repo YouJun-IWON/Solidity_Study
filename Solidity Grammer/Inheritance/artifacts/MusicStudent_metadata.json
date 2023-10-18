@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "major",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "schoolName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Inheritance/contract inh.sol": "MusicStudent"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Inheritance/contract inh.sol": {
+			"keccak256": "0x436c5c76cc85aa5dedcd112cd17c4ac77a71313e13a23f447cca6af085d47cb7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://24076ae8a7f6cef50b3b9792a7e678cf6d8a0b00eff82f79db12f64836dc8877",
+				"dweb:/ipfs/QmYCaecvU14xY1fv6av7FhvZxUFxVyr9Arjh3sJm4ofo77"
+			]
+		}
+	},
+	"version": 1
+}

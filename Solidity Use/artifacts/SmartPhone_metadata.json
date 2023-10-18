@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "boot",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "bool",
+						"name": "",
+						"type": "bool"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Use/abst.sol": "SmartPhone"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Use/abst.sol": {
+			"keccak256": "0x6b2fddb9b8cfba019a143d0bc4f5033ca9b831cb867436ec120bd7a6914ec0d7",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7a5f2ebc62ed5917eee927e721067e88b7f05000f86952aa553030ce0514b9bb",
+				"dweb:/ipfs/QmVVGU9hsJHVKRCAhN9h1jTFh1eAPgf4WGXB7mF6rRymee"
+			]
+		}
+	},
+	"version": 1
+}

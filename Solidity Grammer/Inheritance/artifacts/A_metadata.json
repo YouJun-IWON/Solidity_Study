@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getName",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "name",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Inheritance/state.sol": "A"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Inheritance/state.sol": {
+			"keccak256": "0xace891d5ddb5701992e5481ab94ace6c982dd52c6ee9b2cc053873755d8bc449",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://daf8a395468e0e6091a413fb6d90cf64fef4d071c322de8f4bcb8388647d7718",
+				"dweb:/ipfs/QmYrdNT6Gp8VdGXd5uJhKHNgZw7pUFWB1iqKNcxSU2BZDr"
+			]
+		}
+	},
+	"version": 1
+}

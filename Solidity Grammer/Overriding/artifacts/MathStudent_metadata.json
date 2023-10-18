@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "major",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Overriding/overriding.sol": "MathStudent"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Overriding/overriding.sol": {
+			"keccak256": "0xc63756a9daaf81bfc520ca6dd5c8f48ee16a690913b20e3a5e1d5207b2d3d9af",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://0c224999ae125d03b6df5c6965d0be5a08297cbf8983df8d05e02b2f270ca7a7",
+				"dweb:/ipfs/QmckxBg1kniKdJ5d38tdkNUdtNMbWU8XxPKfTVEQGxnmKm"
+			]
+		}
+	},
+	"version": 1
+}

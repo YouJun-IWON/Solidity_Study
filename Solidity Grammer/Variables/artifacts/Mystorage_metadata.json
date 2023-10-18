@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getResult",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/DataType/global.sol": "Mystorage"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/DataType/global.sol": {
+			"keccak256": "0xe52841e4f619f4a0a017441a23b6b262fca709763517a8871e6d08e1c1d55176",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://03bb12b5d4c43161debd9820d4a9a3611448ed480ac36df257d7d66ddf1505e9",
+				"dweb:/ipfs/QmdTAJsrRrtuyCsNUmyMtcMpWnWvvjGE6AxjtYB1aVg4qe"
+			]
+		}
+	},
+	"version": 1
+}

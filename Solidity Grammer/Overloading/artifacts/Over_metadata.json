@@ -1,0 +1,64 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getNumgers",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Overloading/overloading2.sol": "Over"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Overloading/overloading2.sol": {
+			"keccak256": "0x7cd82b29cc5d639893b41bdc4199ac7b8c0d9dca0603992d224bf42c862d275a",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://319bd5cee81452154cf9373fa4a80bbfc9031394f9bba31b7b97c5d7e35988b3",
+				"dweb:/ipfs/QmedvN5idNazYCYhLFq1zH2Pfiw7DURPFghW6wBCioRhFQ"
+			]
+		}
+	},
+	"version": 1
+}

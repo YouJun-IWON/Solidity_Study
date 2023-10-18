@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "count",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "increment",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Interface/1.sol": "Counter"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Interface/1.sol": {
+			"keccak256": "0x043e96f9c7c0f8268fbbafe820aaf74752716a17ae23cb3c8172decafeae2aa2",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://ddc3a142d2009d2306f8b8fc1bb0fed27a40a4d45d3cd8a680082c411808e84c",
+				"dweb:/ipfs/QmdecrNYU2uLX9BPYPUi1zuUcJwWKcQ3mFviu8moyCGLTc"
+			]
+		}
+	},
+	"version": 1
+}

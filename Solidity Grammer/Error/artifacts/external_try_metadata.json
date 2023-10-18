@@ -1,0 +1,83 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"anonymous": false,
+				"inputs": [
+					{
+						"indexed": false,
+						"internalType": "string",
+						"name": "_error",
+						"type": "string"
+					}
+				],
+				"name": "Information",
+				"type": "event"
+			},
+			{
+				"inputs": [
+					{
+						"internalType": "uint256",
+						"name": "_num1",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "_num2",
+						"type": "uint256"
+					}
+				],
+				"name": "divisionWithTryCatch",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Error/4.sol": "external_try"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Error/4.sol": {
+			"keccak256": "0x6602761042ebd3ec25dd2a2359b8d6fd23721c6c5f765075daa7ded6a7d875aa",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://eddb0363fb57a492d068045ce124efe09f0fc7ff9b8a7b59fbfbdef13ec82f41",
+				"dweb:/ipfs/QmYVvP33t7bgy5awBveNDcRV7hfdJ6CjGhjsMeHxbQddMU"
+			]
+		}
+	},
+	"version": 1
+}

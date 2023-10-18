@@ -1,0 +1,79 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "getChoice",
+				"outputs": [
+					{
+						"internalType": "enum test.ActionChoices",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getDefaultChoice",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "setGoStraight",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/Data type/enum.sol": "test"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/Data type/enum.sol": {
+			"keccak256": "0x619a8b1443107ecb96cd195438adc93338d6b42abc5fb2381b74e1c7729e8cf0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://fee3463c452ec6053eba19c59a1de9655c65891acb081136df721093937bfdbc",
+				"dweb:/ipfs/QmbghbMCkmPVCVwqfQ8jDWpGVrTBX1A26Prwf8rG8htkLp"
+			]
+		}
+	},
+	"version": 1
+}

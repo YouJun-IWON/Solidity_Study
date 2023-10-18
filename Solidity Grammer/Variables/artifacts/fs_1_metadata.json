@@ -1,0 +1,77 @@
+{
+	"compiler": {
+		"version": "0.8.21+commit.d9974bed"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "a",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myfin1",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					},
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Solidity Grammer/DataType/test.sol": "fs_1"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Solidity Grammer/DataType/test.sol": {
+			"keccak256": "0xfe2ec4d8592d6e2a536216f71c6300ea204f99c80220162c95066ec303ef1132",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://1830a3ae467c899125e173741b5cfa57d0ae60c57907336392aa6fc8075ab4a9",
+				"dweb:/ipfs/QmPW76Uc1xNtWfp768QgAHHGXSev8ymmyQiumwEMR1zbid"
+			]
+		}
+	},
+	"version": 1
+}
