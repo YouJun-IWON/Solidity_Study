@@ -13,8 +13,6 @@ contract Alchemy is ERC721, ERC721Enumerable, ERC721URIStorage, Ownable {
     Counters.Counter private _tokenIdCounter;
     uint256 MAX_SUPPLY = 100000;
 
-    
-
     constructor() ERC721("Alchemy", "ALCH") {}
 
     function safeMint(address to, string memory uri) public onlyOwner {
